@@ -1,5 +1,6 @@
 # chat-front
-
+- vue.js를 이용한 심플한 채팅 샘플페이지입니다.
+-
 ## Project setup
 ```
 yarn install
